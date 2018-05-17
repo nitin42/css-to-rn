@@ -5,6 +5,10 @@ describe('CSS to React Native', () => {
     expect(typeof cssToRN).toBe('function');
   });
 
+  it('should throw an error when passed an invalid style string', () => {
+    expect(() => cssToRN(1234)).toThrow('Expected a valid css string.')
+  })
+
   it('should not throw an error when passed a css string', () => {
     expect(() => cssToRN(``)).not.toThrow();
   });
