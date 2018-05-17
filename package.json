@@ -1,0 +1,27 @@
+{
+  "name": "css-to-rn",
+  "version": "1.0.0",
+  "description": "Convert css string to React Native",
+  "main": "src/index.js",
+  "files": ["src"],
+  "author": "Nitin Tulswani",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.4.3",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "^22.4.3",
+    "react-native": "^0.55.4"
+  },
+  "peerDependencies": {
+    "react-native": "^0.55.4"
+  },
+  "dependencies": {
+    "css-to-react-native": "^2.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
