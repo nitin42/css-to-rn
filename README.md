@@ -20,6 +20,8 @@ or if you use yarn
 yarn add css-to-rn
 ```
 
+This package depends on `react-native` so make sure you've installed it.
+
 ## Usage
 
 ```js
