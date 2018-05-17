@@ -1,5 +1,7 @@
 # css-to-rn
 
+![author](https://img.shields.io/badge/author-Nitin%20Tulswani-blue.svg)
+
 > Convert css string to React Native
 
 ## What ?
