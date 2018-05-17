@@ -1,10 +1,11 @@
 {
   "name": "css-to-rn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert css string to React Native",
   "main": "src/index.js",
   "files": ["src"],
   "author": "Nitin Tulswani",
+  "homepage": "https://github.com/nitin42/css-to-rn",
   "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/jest"
