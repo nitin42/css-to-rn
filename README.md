@@ -2,6 +2,8 @@
 
 ![author](https://img.shields.io/badge/author-Nitin%20Tulswani-blue.svg)
 
+[![Build Status](https://travis-ci.org/nitin42/css-to-rn.svg?branch=master)](https://travis-ci.org/nitin42/css-to-rn)
+
 > Convert css string to React Native
 
 ## What ?
